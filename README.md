@@ -1,1 +1,1 @@
-# java-cross-origin-resource-sharing-filter
+# Java Spring Framework CORS (Cross Origin Resource Sharing) Filter
